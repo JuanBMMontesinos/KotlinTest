@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="twitch_top_games">Twitch Top Games</string>
+    <string name="game_detail">Game Detail</string>
+    <string name="Name">NOME</string>
+    <string name="Popularity">Popularity:</string>
+    <string name="text1">TEXT1</string>
+    <string name="localized_name">Localized Name:</string>
+</resources>
